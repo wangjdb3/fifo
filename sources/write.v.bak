@@ -1,0 +1,5 @@
+module write(
+	input CLK,
+	input RSTn,
+	
+);
